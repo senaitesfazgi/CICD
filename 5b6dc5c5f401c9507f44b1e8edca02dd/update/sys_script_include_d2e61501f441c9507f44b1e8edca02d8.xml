@@ -8,7 +8,7 @@
         <description/>
         <name>feature_04231</name>
         <script><![CDATA[var feature_04231 = Class.create();
-feature_052621.prototype = {
+feature_04231.prototype = {
     initialize: function() {
    },
 
@@ -16,19 +16,19 @@ feature_052621.prototype = {
 		return "Hello!";
     },
  
-   type: 'feature_052621'
+   type: 'feature_04231'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-12 21:40:13</sys_created_on>
         <sys_id>d2e61501f441c9507f44b1e8edca02d8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>feature_04231</sys_name>
         <sys_package display_value="CICD DemoAPP" source="x_snc_cicd_demoapp">5b6dc5c5f401c9507f44b1e8edca02dd</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="CICD DemoAPP">5b6dc5c5f401c9507f44b1e8edca02dd</sys_scope>
         <sys_update_name>sys_script_include_d2e61501f441c9507f44b1e8edca02d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-12 21:53:17</sys_updated_on>
+        <sys_updated_on>2022-01-12 21:55:42</sys_updated_on>
     </sys_script_include>
 </record_update>
